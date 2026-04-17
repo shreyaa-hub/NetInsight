@@ -1,0 +1,15 @@
+LOW Traffic:
+Delay: 0.0014
+Throughput: 1.43
+Packet Loss %: 0.00
+
+MEDIUM Traffic:
+Delay: 0.0072
+Throughput: 1.63
+Packet Loss %: 41.84
+
+HIGH Traffic:
+Delay: 0.0077
+Throughput: 1.43
+Packet Loss %: 73.33
+
